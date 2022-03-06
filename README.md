@@ -6,11 +6,12 @@
 Use SQLite weather database with Python, Pandas,Matplotlib and SQLAlchemy and share the results with Flask.
 Analysis of weather to ensure that the new venture of setting up a surf and shake shop serving surf boards and ice cream to locals and tourist is successful. 
 
-1.Purpose:
+### 1.Purpose:
 
 By performing an analysis of weather the idea is to help W.Avy, who is is wanting to invest in this business i will perform an analysis to ensure that the new venture of setting up a surf shop is successful on the basis of weather data especially during the months of June and December. 
 
-2.Tools:
+### 2.Tools:
+
 . SQLite/SQLAlchemy
 
 . Python
@@ -24,8 +25,10 @@ By performing an analysis of weather the idea is to help W.Avy, who is is wantin
 
 # Results:
 ## Deliverable 1 : Summary Statistics for June
+
 Summers in Oahu is excellent time to visit for a vacation especially in the month of June. Hence our first deliverable is based on that month with a dataset of 1700 recordsfor performing a temperature analysis and understand the weather fluctuations during that month. This will help W. Avy in understanding the potential for a successful investment.
-Findings:
+
+### Findings:
 
 . The mean (average) temperature during June in Oahu is around 74 degrees.
 
@@ -35,7 +38,7 @@ Findings:
 
 . Oahu is a great place for surfing and ice cream sales in the month of June.
 
-June_Statistics
+#### June_Statistics
 
 
 ![image](https://user-images.githubusercontent.com/96351897/156941798-c6fa2649-e662-402f-b6c5-8fe917e65764.png)
@@ -45,7 +48,7 @@ June_Statistics
 
 December is another popular vacation time in Oahu this is during the holidays, we wil perform an analysis of the temperature fluctuations and understand whether Oahu is a great vacation place during December. The analysis was done utilizing 1517 records to understand if thats too cold for surfing or ice cream sales.
 
-Findings:
+### Findings:
 
 . The mean (average) temperature in December is Oahu is around 71 degrees.
 
@@ -57,7 +60,7 @@ Findings:
 
 . Oahu is a great place for surfing and ice cream sales in the month of December.
 
-December_Statistics
+#### December_Statistics
 
 
 ![image](https://user-images.githubusercontent.com/96351897/156941807-a25bbe8e-fed3-4c6b-ab22-87f5411437e3.png)
@@ -84,7 +87,7 @@ To get some more in-deapth insight on the contitions other than the weather data
 . For December maximum percipitation is 6.42 inches in a day.
 
 
-"june_prcp" 
+#### June precipitation 
 
 
 ![image](https://user-images.githubusercontent.com/96351897/156941830-a5bb0973-956a-465a-9b40-d941f4c33f37.png)
@@ -93,7 +96,7 @@ To get some more in-deapth insight on the contitions other than the weather data
 
 
 
-"december_prcp"
+#### December precipitation
 
 
 ![image](https://user-images.githubusercontent.com/96351897/156942313-e7b1b6bb-67d5-42a8-abf4-7a24109a2b1d.png)
