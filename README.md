@@ -28,6 +28,7 @@ Findings:
 . Oahu is a great place for surfing and ice cream sales in the month of June.
 
 June_Statistics
+![image](https://user-images.githubusercontent.com/96351897/156941798-c6fa2649-e662-402f-b6c5-8fe917e65764.png)
 
 
 ## Deliverable 2: Summary Statistics for December
@@ -41,6 +42,7 @@ Findings:
 . Oahu is a great place for surfing and ice cream sales in the month of December.
 
 December_Statistics
+![image](https://user-images.githubusercontent.com/96351897/156941807-a25bbe8e-fed3-4c6b-ab22-87f5411437e3.png)
 
 
 
@@ -59,6 +61,7 @@ To get some more in-deapth insight on the contitions other than the weather data
 
 
 "june_prcp" "december_prcp"
+![image](https://user-images.githubusercontent.com/96351897/156941830-a5bb0973-956a-465a-9b40-d941f4c33f37.png)
 
 
 Additional analysis to help W.Avy for surfing can include wind speed analysis in mph during those months. Analysis of seasonal data during Winter, Spring , Summer and Fall will give a picture for the entire years of collecitve data showing the best possible outcome for the business prospect in Oahu and help us to forecast the sales as well.
