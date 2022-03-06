@@ -96,6 +96,8 @@ To get some more in-deapth insight on the contitions other than the weather data
 "december_prcp"
 
 
+![image](https://user-images.githubusercontent.com/96351897/156942313-e7b1b6bb-67d5-42a8-abf4-7a24109a2b1d.png)
+
 
 
 Additional analysis to help W.Avy for surfing can include wind speed analysis in mph during those months. Analysis of seasonal data during Winter, Spring , Summer and Fall will give a picture for the entire years of collecitve data showing the best possible outcome for the business prospect in Oahu and help us to forecast the sales as well.
